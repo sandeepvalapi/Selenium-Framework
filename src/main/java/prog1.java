@@ -1,8 +1,6 @@
 import java.io.IOException;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 public class prog1 extends base
 {
