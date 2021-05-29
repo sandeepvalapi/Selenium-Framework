@@ -1,3 +1,4 @@
+package com.sample.part;
 import java.io.IOException;
 
 import org.junit.Test;
