@@ -1,3 +1,3 @@
 # Selenium-Framework
 
-Hope this helps any newbee to learn basics of selenium through java
+Basic Selenium project to test a commerce system
