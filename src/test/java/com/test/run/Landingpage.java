@@ -1,7 +1,7 @@
 package com.test.run;
+import org.testng.annotations.Test;
 import java.io.IOException;
 
-import org.junit.Test;
 import org.openqa.selenium.Keys;
 
 import com.sample.part.base;

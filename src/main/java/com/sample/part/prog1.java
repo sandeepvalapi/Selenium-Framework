@@ -1,7 +1,6 @@
 package com.sample.part;
+import org.testng.annotations.Test;
 import java.io.IOException;
-
-import org.junit.Test;
 
 public class prog1 extends base
 {
